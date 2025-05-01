@@ -37,9 +37,11 @@ python todo_list.py
 
 📸 Screenshots
 
+![Menu](screenshots/todo_menu.png)
 
+![Add Task](screenshots/add_task.png)
 
-
+![Today View](screenshots/today_view.png)
 
 👩‍💻 Developer
 
